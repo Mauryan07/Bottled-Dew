@@ -298,7 +298,7 @@ body {
 }
 
 .testimonial-img-div {
-    background-image: url(sammy-rating.svg);
+    background-image: url(./sammy-rating.svg);
     background-size: cover;
     height: 95vh;
     width: 50%;
@@ -343,14 +343,14 @@ body {
 .overlay-img1{
     top: 10%;
     left: 6%;
-   background: url(face1.png);
+   background: url(./face1.png);
    background-size: cover;
    filter: drop-shadow(2px 5px 8px #969696); 
 }
 .overlay-img2{
     top: 10%;
     right: 29%;
-  background: url(face2.jpg);
+  background: url(./face2.jpg);
   background-size: cover;
   filter: drop-shadow(2px 5px 8px #969696);
 }
